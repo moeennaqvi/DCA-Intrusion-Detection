@@ -7,7 +7,7 @@ This project implements the Dendritic Cell algorithm for KDD 99 Cup Challenge da
 3. Open the `/notebook` directory.
 4. Locate the file named `Dendritic cell Algorithm.ipynb`.
 5. Open `Dendritic cell Algorithm.ipynb` using Jupyter Notebook or any other compatible notebook environment.
-6. Follow the instructions and code snippets in the notebook to implement the credit analysis and prediction project.
+6. Follow the instructions and code snippets in the notebook to understand the data analysis, algorithmic implementation, and data files.
 
 
 ## Pointers: 
