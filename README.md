@@ -1,4 +1,4 @@
-# IntrusionDetection
+# Intrusion Detection using Dendritic Cell algorithm
 This project implements the Dendritic Cell algorithm for KDD 99 Cup Challenge dataset and performs a binary classification. 
 
 ## Instructions: 
